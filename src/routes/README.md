@@ -1,0 +1,1 @@
+$env:GOOGLE_APPLICATION_CREDENTIALS="C:\Users\byrau\OneDrive\Escritorio\Backend Insight\prueba-insight-firebase-adminsdk-mhv5j-267a9e7290.json"

@@ -1,0 +1,20 @@
+{
+    "name": "backend-insight",
+    "version": "1.0.0",
+    "description": "Proyecto de pruebas para examen laboral",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon src/index.js"
+    },
+    "author": "Manuel Leiva",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "firebase-admin": "^9.10.0",
+        "morgan": "^1.10.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.8"
+    }
+}
